@@ -56,7 +56,7 @@ This project is a full-stack solution that:
 ```bash
 git clone https://github.com/RudreshRaj001/apniroots-product-crawler.git
 cd apniroots-product-crawler
-````
+```
 
 ### 2. Install Python Dependencies
 
