@@ -161,7 +161,7 @@ GET /api/products?q=basmati&category=Rice&min_price=5&max_price=15&skip=0&limit=
 
 ## 🧑‍💻 Author
 
-**Your Name**  
+**Rudresh Raj**  
 [GitHub](https://github.com/RudreshRaj001) | [LinkedIn](https://www.linkedin.com/in/rudreshraj/)
 
 ---
