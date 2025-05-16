@@ -46,6 +46,7 @@ This project is a full-stack solution that:
 ├── apniroots_products.json         # Final output of scraped products
 ├── .gitignore                      # Git ignore file
 └── README.md                       # Project documentation and setup guide
+```
 
 ---
 
