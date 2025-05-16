@@ -54,7 +54,7 @@ This project is a full-stack solution that:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/apniroots-product-crawler.git
+git clone https://github.com/RudreshRaj001/apniroots-product-crawler.git
 cd apniroots-product-crawler
 ````
 
@@ -142,9 +142,11 @@ GET /api/products?q=basmati&category=Rice&min_price=5&max_price=15&skip=0&limit=
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots and Video
 
-_Add screenshots or screen recordings here._
+![E-commerce Search](image.png)
+
+- [Watch Video](https://www.youtube.com/watch?v=98mf6Y3uj2I)
 
 ---
 
@@ -160,6 +162,6 @@ _Add screenshots or screen recordings here._
 ## 🧑‍💻 Author
 
 **Your Name**  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub](https://github.com/RudreshRaj001) | [LinkedIn](https://www.linkedin.com/in/rudreshraj/)
 
 ---
