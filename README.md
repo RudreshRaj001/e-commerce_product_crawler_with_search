@@ -55,7 +55,7 @@ This project is a full-stack solution that:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/RudreshRaj001/apniroots-product-crawler.git
+git clone https://github.com/RudreshRaj001/e-commerce_product_crawler_with_search
 cd apniroots-product-crawler
 ```
 
